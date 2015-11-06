@@ -16,4 +16,4 @@
 
 ***
 
-Source and badges: [ind.ie: Ethical Design Manifesto](https://ind.ie/ethical-design/), CC BY 4.0
+Source and badges: [ind.ie: Ethical Design Manifesto](https://ind.ie/ethical-design/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by "[Article 12](https://ind.ie/about/#trademarks)"
