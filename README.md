@@ -4,7 +4,7 @@
 
 **Make products that…**
 
-![ethica-design](https://cdn.pbrd.co/images/1WolNj45.png)
+![Maslows Pyramid](https://perguth.js.org/ideas/130528-Better-Life-Deutschland/index-Dateien/fetch.png)
 
 **Design, don’t decorate** · Design without ethics is decoration. Decoration makes inequality palatable, design challenges it.
 
