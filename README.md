@@ -14,4 +14,6 @@
 
 **Design your organisations so that your core values are respect for human rights, respect for human effort, and respect for human experience.**
 
-<sub>Source and badges: [ind.ie: Ethical Design Manifesto](https://ind.ie/ethical-design/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by "[Article 12](https://ind.ie/about/#trademarks)"</sub>
+[![DIGITAL JEDIISM](https://avatars1.githubusercontent.com/u/11433761?v=3&s=200)](https://github.com/digitaljediism/digitaljediism.github.io)
+
+<sup>Source and badges: [ind.ie: Ethical Design Manifesto](https://ind.ie/ethical-design/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by "[Article 12](https://ind.ie/about/#trademarks)"</sup>
