@@ -4,7 +4,7 @@
 
 **Make products that…**
 
-[![Maslows Pyramid](https://perguth.js.org/ideas/130528-Better-Life-Deutschland/index-Dateien/fetch.png)](#esteem)
+[![Maslows Pyramid](https://perguth.de/ideas/130528-Better-Life-Deutschland/index-Dateien/fetch.png)](#esteem)
 
 **Design, don’t decorate** · Design without ethics is decoration. Decoration makes inequality palatable, design challenges it.
 
